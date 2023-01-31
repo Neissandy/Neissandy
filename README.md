@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neissandy-silva/)
 
 ![neissandy GitHub stats](https://github-readme-stats.vercel.app/api?username=Neissandy&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neissandy&layout=compact)](https://github.com/Neissandy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neissandy&layout=demo)](https://github.com/Neissandy/github-readme-stats)
 ## Tecnologias que eu uso
 
 <div style="display:inline_block"><br/>
