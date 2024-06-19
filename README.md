@@ -16,4 +16,5 @@
 
 - Conclui o curso técnico em Informática pelo Instituto Federal de Alagoas - IFAL (2017/2021)<br/>
 - Estou cursando Análise e Desenvolvimento de Sistemas pela Unopar (Início -> 2023)<br/>
-- Estou me descobrindo na área da tecnologia! 
+- Estou trabalhando de Jovem Aprendiz no setor de TI<br/>
+- Cada dia me descobrindo na área de tecnologia!!
