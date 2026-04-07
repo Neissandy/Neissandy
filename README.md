@@ -1,4 +1,5 @@
 ### Olá! Eu sou a Sandy! 👋
+Cada dia me descobrindo na área de tecnologia!!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neissandy-silva/)
 
@@ -13,7 +14,4 @@
   <img aling="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div><br/>
 
-- Conclui o curso técnico em Informática pelo Instituto Federal de Alagoas - IFAL (2017/2021)<br/>
-- Estou cursando Análise e Desenvolvimento de Sistemas pela Unopar (Início -> 2023)<br/>
-- Estou trabalhando de Jovem Aprendiz no setor de TI<br/>
-- Cada dia me descobrindo na área de tecnologia!!
+
