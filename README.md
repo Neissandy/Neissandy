@@ -1,4 +1,4 @@
-# Olá! Sandy aqui! 👋
+# Olá! Sandy aqui! 🛸
 
 ### Ex-IFAL | Ex-Suporte de TI | Futura Front-End Dev
 
