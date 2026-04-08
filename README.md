@@ -1,25 +1,19 @@
 # Olá! Sandy aqui! 👋
 
-### 🎓 Ex-IFAL | 💻 Ex-Suporte de TI | 🎨 Futura Front-End Dev
+### Ex-IFAL | Ex-Suporte de TI | Futura Front-End Dev
 
 Sou técnica em Informática pelo Instituto Federal de Alagoas (IFAL), cursei uma parte da graduação em Análise e Desenvolvimento de Sistemas e já trabalhei como Jovem Aprendiz de TI. Hoje em dia, estou focada no desenvolvimento Front-End.
 
 ---
 
-### 📩 Contato
+### Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/neissandy-silva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:neisandy.silva@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+*  **LinkedIn:** [linkedin.com/in/neissandy-silva](https://www.linkedin.com/in/neissandy-silva)
+*  **E-mail:** [neisandy.silva@gmail.com](mailto:neisandy.silva@gmail.com)
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
