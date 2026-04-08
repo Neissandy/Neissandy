@@ -3,11 +3,12 @@
 
 Sou técnica em Informática pelo Instituto Federal de Alagoas (IFAL), cursei uma parte da graduação em Análise e Desenvolvimento de Sistemas e já trabalhei como Jovem Aprendiz de TI. Hoje em dia, estou focada no desenvolvimento Front-End.
 
+### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neissandy-silva)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](neisandy.silva@gmail.com)
+LinkedIn: https://www.linkedin.com/in/neissandy-silva
+Email: neisandy.silva@gmail.com
 
-### 🛠 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div inline>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
